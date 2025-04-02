@@ -1,2 +1,2 @@
-# fetchhost
-Easily fetch data from systems over SSH
+# what
+fetchhost is an agentless tool that auto-initiates ssh connections to remote hosts executing a database of pre-constructed (read-only) shell commands and returning filtered or serialized output based on your request. The CLI works with a 2-argument structured design that consists of parameters defining an action and target. The action(s) acts on the target(s) to perform the desired response. The design constraint for this path allows the idea of simplicity to remain intact and tangible for the dev's api experience.
