@@ -1,0 +1,28 @@
+{
+    "general": {
+        "app_version": "0.1.0",
+        "files": {
+            "log_app": "./fh.log",
+            "db_fetchhost": "./db/fetchhost.fhdb",
+            "db_os_linux": "./db./os_linux.fhdb"
+        }
+    },
+
+    "user": {},
+
+    "jobman": {},
+
+    "security": {},
+
+    "skeletons": {
+        "response": {
+            "json": {},
+            "yaml": {},
+            "toml": {},
+            "xml": {},
+            "csv": {}
+        }
+    },
+
+    "tests": {}
+}
