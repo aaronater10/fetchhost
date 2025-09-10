@@ -19,6 +19,7 @@ go.work.sum
 .env
 
 # DB
+db/
 *.fhdb
 
 # Log
