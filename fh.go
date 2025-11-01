@@ -2,6 +2,8 @@ package main
 
 /*
 Fetchhost - easily and securely fetch data from systems over SSH
+
+version: 0.1.0
 */
 
 // Imports
